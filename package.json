@@ -1,0 +1,23 @@
+{
+  "name": "test_1",
+  "version": "1.0.0",
+  "description": "Yes",
+  "main": "index.js",
+  "dependencies": {
+    "sticky-js": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chri55/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chri55/test/issues"
+  },
+  "homepage": "https://github.com/chri55/test#readme"
+}

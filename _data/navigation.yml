@@ -5,16 +5,16 @@
   url: "/"
   side: left
 
-- title: "Dropdown Menu"
-  url: "#"
-  side: left
-  dropdown:
-  - title: "Dropdown Menu 1"
-    url: "#"
-  - title: "Dropdown Menu 2"
-    url: "#"
-  - title: "Dropdown Menu 3"
-    url: "#"
+#- title: "Dropdown Menu"
+#  url: "#"
+#  side: left
+#  dropdown:
+#  - title: "Dropdown Menu 1"
+#    url: "#"
+#  - title: "Dropdown Menu 2"
+#    url: "#"
+#  - title: "Dropdown Menu 3"
+#    url: "#"
 
 - title: Blog
   url: "/blog/"
@@ -23,12 +23,36 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
+- title: Works
+#  url: /works/
+  side: left
+  dropdown:
+  - title: Comics
+    url: /comics/
+  - title: Commissions
+    url: /commissions/
+  - title: Cartoons
+    url: /cartoons/
+
+- title: Podcast
+  url: /podcast/
+  side: left
+
+
+#- title: Comics
+#  url: /comics/
+#  side: left
+
+#- title: Commissions
+#   url: /commissions/
+#   side: left
+
 #
 #   Navigation to the right › side: right
 #
-- title: "Info"
-  url: "/info/"
-  side: right
+#- title: "Info"
+#  url: "/info/"
+#  side: right
 
 - title: "Search"
   url: "/search/"

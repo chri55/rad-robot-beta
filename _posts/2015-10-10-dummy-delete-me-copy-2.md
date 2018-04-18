@@ -3,8 +3,8 @@ layout: page
 #
 # Content
 #
-subheadline: "Dummy"
-title: "You can delete this file"
+subheadline: "Old Post"
+title: " Oldest Blog Post!"
 teaser: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 categories:
   - dummy
@@ -20,7 +20,7 @@ image:
   caption: "Caption?"
   url: "http://phlow.de/"
 ---
-
+The Test Goes Here?
 
 
  [1]: #

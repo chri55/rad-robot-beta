@@ -3,8 +3,8 @@ layout: page
 #
 # Content
 #
-subheadline: "Dummy"
-title: "You can delete this file"
+subheadline: "Newest Post"
+title: "The newest post!"
 teaser: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 categories:
   - dummy
@@ -21,7 +21,15 @@ image:
   url: "http://phlow.de/"
 ---
 
+This is the content of the post.
 
+<div align="center">
+  <img src="{{site.url}}/images/trangles.png">
+</div>
+
+We added an image and centered it above. Cool cool cool.
+
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 
  [1]: #
  [2]: #

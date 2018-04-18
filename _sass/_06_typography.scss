@@ -345,7 +345,27 @@ mark {
     margin-bottom: 0;
 }
 
+/* Roadgeek Font */
+/* TODO get formats for ALL browsers!!! */
+@font-face {
 
+    font-family: 'Roadgeek';
+    src: url('../fonts/roadgeek.ttf') format('truetype')
+}
+
+.roadgeek { font-family: 'roadgeek'}
+.roadgeek-48 { font-size: 48px }
+
+/* Cerbetica Font */
+/* TODO get formats for AAL browsers!!! */
+
+@font-face {
+    font-family: 'Cerbetica';
+    src: url('../fonts/cerbetica.ttf') format('truetype');
+}
+
+.cerbetica     { font-family: cerbetica; }
+.cerbetica-48  { font-size: 48px; }
 
 
 /* Icon Font

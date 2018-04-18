@@ -23,7 +23,7 @@
 ------------------------------------------------------------------- */
 
 body.video,
-body.video #masthead-no-image-header { background: #000; }
+body.video #masthead-no-image-header { background: #fff; }
 body.video #masthead-no-image-header { margin-bottom: 60px; }
 body.video h1,
 body.video h2,
@@ -64,10 +64,10 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 #masthead {
-    background-color: $primary-color;
+    background-color: #ffffff;
 }
 #masthead-no-image-header {
-    background-color: $primary-color;
+    background-color: #ffffff;
 }
 #masthead-with-text {
     text-align: center;

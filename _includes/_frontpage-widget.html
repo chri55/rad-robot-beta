@@ -1,4 +1,4 @@
-<div class="medium-4 columns frontpage-widget">
+<div class="medium-4 columns frontpage-widget sans">
 	{% capture widget_url %}{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
 	<a href="{{ widget_url }}">
 		{% if include.widget.image %}
@@ -11,8 +11,7 @@
 		{% endif %}
 		{% if include.widget.video %}{{ include.widget.video }}{% endif %}
 	</a>
-	<h2 class="font-size-h3 t10">{{ include.widget.title }}</h2>
-	<p>{{ include.widget.text }}</p>
+	<h2 class="font-size-h3 t10 sans">{{ include.widget.title }}</h2>
+	<p class="sans">{{ include.widget.text }}</p>
 	<p><a class="button tiny radius" href="{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}">{{ site.data.language.more }}</a></p>
 </div>
-
