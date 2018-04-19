@@ -23,6 +23,7 @@ widget3:
 header:
   image_fullwidth: "robo_header.png"
   caption: h
+sidebar: right
 #
 # Use the call for action to show a button on the frontpage
 #

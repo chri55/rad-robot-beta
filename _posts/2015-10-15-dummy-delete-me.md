@@ -13,12 +13,13 @@ tags:
 #
 # Styling
 #
-image:
-  header: ""
-  thumb: "you-can-delete-me-thumb.png"
-  homepage: "you-can-delete-me-homepage.png"
-  caption: "Caption?"
-  url: "http://phlow.de/"
+###Example of how to set an image on /blog/
+#image:
+#  header: ""
+#  thumb: "you-can-delete-me-thumb.png"
+#  homepage: "you-can-delete-me-homepage.png"
+#  caption: "Caption?"
+#  url: "http://phlow.de/"
 ---
 
 This is the content of the post.

@@ -13,12 +13,7 @@ tags:
 #
 # Styling
 #
-image:
-  header: ""
-  thumb: "you-can-delete-me-thumb.png"
-  homepage: "you-can-delete-me-homepage.png"
-  caption: "Caption?"
-  url: "http://phlow.de/"
+
 ---
 The Test Goes Here?
 
