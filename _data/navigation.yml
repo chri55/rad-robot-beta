@@ -38,6 +38,10 @@
   url: /podcast/
   side: left
 
+- title: Videos
+  url: /videos/
+  side: left
+
 
 #- title: Comics
 #  url: /comics/
