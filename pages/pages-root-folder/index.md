@@ -7,22 +7,22 @@
 layout: frontpage
 widget1:
   title: "Comics"
-  url: '{{ site.url}}/comics'
+  url:  
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
   text: ''
 widget2:
   title: "Cartoons"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+  url:
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
   text: ''
 widget3:
   title: "Commissions"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+  url: 
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
   text: ''
 header:
   image_fullwidth: "robo_header.png"
-  caption: h
+  caption:
 sidebar: right
 #
 # Use the call for action to show a button on the frontpage

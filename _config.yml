@@ -112,7 +112,11 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: phlow     # Default author for posts
-
+  -
+      scope:
+          path: "images"
+      values:
+          image: true
 
 
 #       _   __            _             __  _
