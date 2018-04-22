@@ -1,5 +1,5 @@
 ---
-permalink: /cartoons
+permalink: /cartoons/
 layout: page
 title: "Cartoons"
 ---
