@@ -1,4 +1,5 @@
 ---
+sidebar: right
 layout: page
 published: true
 title: Welcome to Prose!
