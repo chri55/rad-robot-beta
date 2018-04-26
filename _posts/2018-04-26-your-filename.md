@@ -16,9 +16,6 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 ![Discord_Red_Blue.png]({{site.baseurl}}/_posts/Discord_Red_Blue.png)
 ****_This is bold, italic text, using the bold, italic buttons._****
 
-> Mario 64 is the best!
--Lee
+> Mario 64 is the best! -Lee < 
 
--
-
-
+Test
