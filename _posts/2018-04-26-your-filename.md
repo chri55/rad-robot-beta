@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: page
 title: Welcome to Prose!
 teaser: lorem
