@@ -4,7 +4,8 @@ layout: page
 title: Welcome to Prose!
 teaser: lorem
 ---
-![kale.jpg]({{ site.url }}/_posts/kale.jpg)
+![kale.jpg]({{ site.url }}/_posts/kale.jpg)![kale.jpg]({{site.baseurl}}/_posts/kale.jpg)
+
 ![kale.png]({{site.baseurl}}/_posts/kale.png)
 
 
