@@ -119,7 +119,7 @@ defaults:
           image: true
           
 prose:
-  rooturl: ''
+  rooturl: '{{site.url}}'
   siteurl: '{{ site.url }}'
   media: 'images'
   ignore:
