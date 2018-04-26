@@ -133,6 +133,11 @@ prose:
         field:
           element: "hidden"
           value: "page"
+      - name: "sidebar"
+        field:
+          element: "hidden"
+          value: "right"
+          
       - name: "tags"
         field:
           element: "multiselect"
