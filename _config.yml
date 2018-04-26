@@ -121,7 +121,7 @@ defaults:
 prose:
   rooturl: '_posts'
   siteurl: '{{ site.url }}'
-  media: 'media'
+  media: '_posts'
   ignore:
     - index.md
     - _config.yml
