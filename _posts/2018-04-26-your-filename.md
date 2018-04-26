@@ -1,5 +1,8 @@
 ---
 published: true
+layout: page
+title: Welcome to Prose!
+teaser: lorem
 ---
 
 ###
