@@ -117,7 +117,11 @@ defaults:
           path: "images"
       values:
           image: true
-          
+
+################################################################################
+# PROSE SETTINGS! FOR BLOG POSTS WOW!
+################################################################################
+
 prose:
   rooturl: '{{site.url}}'
   siteurl: '{{ site.url }}'
@@ -133,11 +137,10 @@ prose:
         field:
           element: "hidden"
           value: "page"
-      - name: "sidebar"
+      - name: "blogsidebar"
         field:
-          element: "hidden"
           value: "right"
-          
+
       - name: "tags"
         field:
           element: "multiselect"
