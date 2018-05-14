@@ -12,6 +12,7 @@ teaser: lorem
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
+This image was inserted right through Prose.io! No repo editing required!
 ![Discord_Red_Blue_vectorized.png]({{ site.url }}/images/Discord_Red_Blue_vectorized.png)
 
 **_This is bold, italic text, using the bold, italic buttons._**
