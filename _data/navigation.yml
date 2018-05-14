@@ -16,6 +16,10 @@
 #  - title: "Dropdown Menu 3"
 #    url: "#"
 
+- title: About
+  url: /about/
+  side: left 
+
 - title: Blog
   url: "/blog/"
   side: left
