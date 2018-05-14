@@ -49,6 +49,12 @@ format: post
 		</article>
 	</div><!-- /.medium-8.columns -->
 
+	{% if page.blogsidebar == "right" %}
+	<div style="right: 5%; top: 50%; left: 90%; position: fixed;">
+		{% include _blogsidebar.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+
 
 	{% if page.sidebar == "left" %}
 	<div class="medium-4 columns medium-pull-8">

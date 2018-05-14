@@ -1,9 +1,10 @@
 ---
-sidebar: right
 layout: page
+blogsidebar: right
 published: true
 title: Welcome to Prose!
 teaser: lorem
+
 ---
 ###
 

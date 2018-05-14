@@ -10,7 +10,9 @@ noindex: true
 	</div><!-- /.medium-7.columns -->
 
 
-	<div class="medium-4 columns t30">
-		{% include _sidebar.html %}
-	</div><!-- /.medium-5.columns -->
+	{% if page.blogsidebar == "left" %}
+	<div class="medium-4 columns medium-pull-8">
+		{% include _blogsidebar.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
 </div><!-- /.row -->
