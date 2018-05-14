@@ -18,14 +18,8 @@
 
 - title: About
   url: /about/
-  side: left 
-
-- title: Blog
-  url: "/blog/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+
 
 - title: Works
 #  url: /works/
@@ -38,6 +32,15 @@
   - title: Cartoons
     url: /cartoons/
 
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Posts"
+    url: "/blog/"
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
 - title: Podcast
   url: /podcast/
   side: left
@@ -46,14 +49,13 @@
   url: /videos/
   side: left
 
+- title: "Classes"
+  url: "/classes/"
+  side: left
 
-#- title: Comics
-#  url: /comics/
-#  side: left
-
-#- title: Commissions
-#   url: /commissions/
-#   side: left
+- title: "Contact"
+  url: "/contact/"
+  side: left
 
 #
 #   Navigation to the right › side: right
@@ -61,11 +63,3 @@
 #- title: "Info"
 #  url: "/info/"
 #  side: right
-
-- title: "Search"
-  url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/contact/"
-  side: right
