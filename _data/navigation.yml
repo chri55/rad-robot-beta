@@ -36,7 +36,7 @@
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Posts"
+  - title: "Postsa.com"
     url: "/blog/"
   - title: "Blog Archive"
     url: "/blog/archive/"
